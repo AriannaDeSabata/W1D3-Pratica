@@ -155,3 +155,26 @@ footer a {
     margin-bottom: 0;
     display: block;
 }
+
+
+
+.new{
+    position: absolute;
+    width: 50px;
+    margin-top: -100px;
+}
+
+#new1{
+    margin-top: -250px;
+    margin-left: 90px;
+}
+
+#new2{
+    margin-top: -100px;
+    margin-left: 230px;
+}
+
+#new3{
+    margin-top: -250px;
+    margin-left: 90px;
+}
