@@ -1,0 +1,157 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    margin: 0;
+    background-color: #E9EDEE;
+}
+
+#logoHeader{
+    background-color:#222F3F ;
+    width: 100%;
+    padding: 0.5em 0em 0.5em 0em;
+}
+
+#logoHeader img{
+    height: 2em;
+    margin-left: 1.5em;
+}
+#nav{
+    background-color: #364759;
+    margin: 0;
+    padding: 0.5em;
+}
+#nav li{
+    list-style: none;
+    display: inline;
+}
+
+#nav a{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 1.5em;
+}
+
+main{
+    margin:2em
+}
+
+#firstParagraph{
+    background-color: #F56600;
+    color: #fff;
+    text-align: center;
+    padding: 0.5em;
+
+}
+
+#giftGuides{
+    background-image: url("/assets/bg-image.png");
+    color: #fff;
+    text-align: center;
+    padding: 2.2em;
+}
+.bold{
+    font-weight: bold;
+}
+
+.cont{
+    width: 100%;
+    height: 430px;
+    margin-top: 2.5em;
+}
+.special {
+    background-color: #ffffff;
+
+}
+.firstParagraphGift{
+    padding: 1em 1em 1em 2em;
+    margin: 0;
+}
+.link{
+    text-decoration: none;
+    color: #1F8091;
+    margin-left: 1em;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+.category{
+    display: inline;
+    width:22%;
+    height: 350px;
+    margin-left: 1.8em;
+}
+
+.category img{
+    width: 22%;
+    border-radius: 20px;
+    height: 350px;
+    object-fit: cover;
+    box-shadow: rgba(0, 0, 0, 0.068) 8px 9px 10px;
+
+}
+
+
+.banner{
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.paragraphGift{
+    text-align: center;
+    margin: 0;
+}
+
+footer a {
+    font-size: 0.8em;
+    background-color: #364759;
+    color: #fff;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 1em 0 1em 0;
+    font-weight: bold;
+}
+
+.contLogo{
+    background-color: #222F3F;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    padding-top: 3em;
+}
+
+#logoFooter{
+    height: 40px;
+}
+
+.extra{
+    background-color: #fff;
+    display: inline-block;
+    width: 290px;
+    height: 430px;
+    padding: 0 0 0 20px;
+    margin-right: 15px;
+}
+.extra:nth-child(4){
+    margin-right: 0;
+}
+.products{
+    display: inline-block;
+    margin-right: 20px;
+}
+.products img{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.products p {
+    margin-top: 0;
+    font-size: 13px;
+}
+
+.linkProducts{
+    margin-top: 15px;
+    margin-bottom: 0;
+    display: block;
+}
